@@ -62,24 +62,6 @@ javac -classpath "./apiguardian-api-1.1.2.jar:./junit-jupiter-api-5.9.3.jar:./ju
 java -jar ./junit-platform-console-standalone-1.11.3.jar -cp .:./mysql-connector-j-8.3.0.jar --scan-class-path
 ```
 
-## Contributors
-
-We would like to thank the following contributors for their valuable input and contributions to this project:
-
-- **[Varnit Mittal](https://github.com/varnit-mittal)** 
-- **[Aditya Priyadarshi](https://github.com/ap5967ap)** 
-- **[Hemang Seth](https://github.com/Hemang-2004)** 
-- **[Rutul Patel](https://github.com/RutulPatel007)** 
-
-
-If you would like to contribute, feel free to fork the repository and submit a pull request!
-
-
-
-
-
-
-   
 ## License
 
 [MIT](https://github.com/varnit-mittal/JDBC-MINI-Proj/blob/main/LICENSE)
