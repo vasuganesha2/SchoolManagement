@@ -20,12 +20,7 @@
 - Install **Java Development Kit (JDK)** version 8 or later.
 - Set up a relational database like **MySQL** or **PostgreSQL**.
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/varnit-mittal/SchoolManager
-   cd SchoolManager/imt2022025_JDBC_Project/
-    ```
+
 ### Configure the Database:
 
 1. Configure SQL Server:
