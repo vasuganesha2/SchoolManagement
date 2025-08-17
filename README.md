@@ -42,7 +42,7 @@ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
    ```bash
    mysql -u root -p
    admin
-   SOURCE /path to schem.sql in sql/ folder of the project 
+   SOURCE /home/vasu/Downloads/SchoolManager-main/imt2022073_JDBC_Project/sql/schem.sql
    ```
 3. Run the application locally
    ```bash
